@@ -1,6 +1,6 @@
 # qt初学者项目集合
 
-
+部分项目来自feiyangqingyun大佬的开源项目，进行了语法修改与版本写法更新，qmake改为了更主推的cmake
 项目     | 功能
 -------- | -----
 qt-tcp  | 简单使用tcp协议，建立server服务器与socket连接发送信息并且实现查询主机ip地址功能 
